@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+<title>Coursera module-2</title>
+</head>
+<body>
+
+
+<h1>Our Menu</h1>
+<div class="items">
+    <div class="grid">
+    <section class="cards">
+        <H2 class="item-title pink">Salad</H2>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, incidunt! Dolore, voluptatum, nam odio eos suscipit est aliquid ipsum quam, molestias eaque dicta. Fugit, maxime temporibus laborum tenetur nobis incidunt.
+        </p>
+    </section>
+    </div>
+
+    <div class="grid">
+    <section class="cards">
+        <H2 class="item-title red">Pasta</H2>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, incidunt! Dolore, voluptatum, nam odio eos suscipit est aliquid ipsum quam, molestias eaque dicta. Fugit, maxime temporibus laborum tenetur nobis incidunt.
+        </p>
+    </section>
+    </div>
+
+    <div class="grid">
+    <section class="cards">
+        <H2 class="item-title yellow">Humous</H2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, incidunt! Dolore, voluptatum, nam odio eos suscipit est aliquid ipsum quam, molestias eaque dicta. Fugit, maxime temporibus laborum tenetur nobis incidunt.</p>
+    </section>
+    </div>
+
+</div>
+</body>
+</html>
